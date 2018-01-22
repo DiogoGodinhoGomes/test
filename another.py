@@ -1,1 +1,1 @@
-Hey, hey!
+print 'Hey, hey!'
